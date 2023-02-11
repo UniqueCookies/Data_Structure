@@ -1,0 +1,17 @@
+abyssinian|cat|friendly|belgiium boat dogs|small|gentle|75
+labrador retriever|dog|adorable|N/A|medium|house trained|25
+german shepherd|dog|playful|N/A|medium|smart|100
+german shepherd|dog|smart|shepherds?|medium|loving|50
+chihuahua|dog|cute|small|house pets|house trained|100
+sheepdog|dog|quiet|small|take care of sheepts|house trained|23
+domestic short hair|cat|small|sweet|not useful|neutered|150
+domestic short hair|cat|small|skiny fur|not sure|neutered|225
+domestic short hair|cat|small|love toys|good company|sprayed|225
+domestic short hair|cat|small|sweet|house cat|neutered|175
+beagle|dog|lovely|good with other dogs|medium|sprayed|0
+beagle|dog|lovely|house trained|large|neutered|0
+beagle|dog|independent|huge|good with other dogs|large|curious|150
+aaa|dog|funny|N/A|large|beautiful|100
+bbb|cat|cutie|N/A|tiny|delicious|50
+ccc|turtle|quiet|tiny|N/A|aggressive|1000
+ddd|human|work hard|huge|N/A|love to learn|10000000000
